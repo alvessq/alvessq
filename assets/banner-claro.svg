@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Kevin Quirino, Analista de Qualidade (QA) com visão de produto">
+  <defs>
+    <radialGradient id="luz" cx="0.18" cy="0.1" r="0.75">
+      <stop offset="0" stop-color="#2F5BD3" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2F5BD3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="pontos" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#E2E6EC"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="#F7F8FA"/>
+  <rect x="820" width="460" height="280" fill="url(#pontos)"/>
+  <rect width="1280" height="280" rx="20" fill="url(#luz)"/>
+  <rect x="0.5" y="0.5" width="1279" height="279" rx="19.5" fill="none" stroke="#E2E6EC"/>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="72" y="64" width="356" height="32" rx="16" fill="#FFFFFF" stroke="#E2E6EC"/>
+    <circle cx="94" cy="80" r="5" fill="#1E8E57"/>
+    <text x="108" y="85.5" font-size="15" fill="#0F141A">Aberto a oportunidades em Qualidade e Produto</text>
+    <text x="70" y="166" font-size="66" font-weight="700" letter-spacing="-2" fill="#0F141A">Kevin Quirino</text>
+    <text x="72" y="212" font-size="26" fill="#5A6575">Analista de Qualidade (QA) com <tspan fill="#2F5BD3" font-weight="600">visão de produto</tspan></text>
+  </g>
+  <g transform="translate(930 70)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="250" height="140" rx="16" fill="#FFFFFF" stroke="#E2E6EC"/>
+    <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" stroke="none">
+      <path d="M24 40l6 6 12-12" stroke="#1E8E57" stroke-width="3"/>
+      <text x="56" y="45" fill="#0F141A">Regra de negócio</text>
+      <path d="M24 76l6 6 12-12" stroke="#1E8E57" stroke-width="3"/>
+      <text x="56" y="81" fill="#0F141A">Testes automáticos</text>
+      <path d="M24 112l6 6 12-12" stroke="#1E8E57" stroke-width="3"/>
+      <text x="56" y="117" fill="#0F141A">Da ideia ao cliente</text>
+    </g>
+  </g>
+</svg>
