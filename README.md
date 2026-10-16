@@ -29,12 +29,12 @@ Analista de Qualidade (QA) com visão de produto. Trabalho com produtos financei
 | Projeto | O que eu fiz | Em números |
 |---|---|---|
 | [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com um teste rápido e outro completo | 5 jornadas automatizadas · 9 telas mapeadas |
-| [Testes de celular rodando sozinhos na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem sozinhos num celular virtual na nuvem, com vídeo de cada execução | 4x por dia, o teste rápido · 14 dias de vídeos guardados |
+| [Testes do aplicativo rodando sozinhos na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem sozinhos num emulador Android na nuvem, com vídeo de cada execução | 4x por dia, o teste rápido · 14 dias de vídeos guardados |
 | [Separar bug de verdade de falha passageira](https://alvessq.github.io/cases/triagem.html) | Teste que falha é repetido 3 vezes e só vira chamado se falhar em todas | 3 repetições antes de avisar · 12 sinais de ambiente reconhecidos |
 | [Painel único de acompanhamento dos testes](https://alvessq.github.io/cases/painel.html) | Painel único com resultados, agenda, vídeos e passo a passo em português | 3 frentes num painel só · 22 passos explicados em português |
 | [Monitoramento de um sistema de auditoria](https://alvessq.github.io/cases/auditoria.html) | Testes que conferem durante o expediente se o sistema está no ar e montando as filas | 5 min entre cada conferência · 120 conferências por dia |
 | [Product Owner do sistema de auditoria](https://alvessq.github.io/cases/po-auditoria.html) | Referência em regra de negócio, discovery, refinamentos e prioridades do time | PO por um período · Referência em regra de negócio |
-| [Como propus testes automáticos no celular](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão | Do zero até a primeira versão · 3 projetos que vieram depois |
+| [Como propus a automação de testes do aplicativo](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão | Do zero até a primeira versão · 3 projetos que vieram depois |
 
 **Projeto público** (código aberto, com a mesma abordagem)
 
