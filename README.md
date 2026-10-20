@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg">
-  <img alt="Kevin Quirino, Analista de Qualidade (QA) com visão de produto" src="assets/banner-claro.svg">
+  <img alt="Kevin Alves Quirino, Analista de Qualidade (QA) com visão de produto" src="assets/banner-claro.svg">
 </picture>
 
 <p align="center">
@@ -28,11 +28,11 @@ Analista de QA com visão de produto e experiência em produtos financeiros B2B 
 
 | Projeto | O que eu fiz | Em números |
 |---|---|---|
-| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com testes que rodam no computador e na nuvem (Appium, WebdriverIO, testes de API) | 5 jornadas e 5 health checks de API · rodam no computador e na nuvem |
+| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com testes que rodam no computador e na nuvem (Appium, WebdriverIO, testes de API) | 5 jornadas automatizadas · 2 lugares para rodar: computador e nuvem |
 | [Testes do aplicativo rodando na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem num emulador Android na nuvem, disparados pelo painel, com vídeo de cada execução (CI com GitHub Actions, emulador Android, Appium) | 10 testes do app rodando na nuvem · 4 formas de rodar |
 | [Separar bug de verdade de falha passageira](https://alvessq.github.io/cases/triagem.html) | Nos testes do computador, a falha é repetida 3 vezes e só vira chamado no Jira se falhar em todas (retry, testes flaky, Jira) | 3 bugs barrados em homologação · 4 alarmes falsos evitados |
 | [Painel único de acompanhamento dos testes](https://alvessq.github.io/cases/painel.html) | Painel para rodar, agendar e acompanhar os testes do app, no computador e na nuvem, e os da auditoria (dashboard, React, Node.js) | 3 frentes num painel só · 13 testes acompanhados |
-| [Monitoramento de um sistema de auditoria](https://alvessq.github.io/cases/auditoria.html) | Testes que conferem durante o expediente, no computador e pelo painel, se o sistema está no ar e montando as filas (Playwright, TypeScript, monitoramento) | 3 testes · 120 conferências de saúde por dia |
+| [Monitoramento de um sistema de auditoria](https://alvessq.github.io/cases/auditoria.html) | Testes que conferem durante o expediente, no computador e pelo painel, se o sistema está no ar e montando as filas (Playwright, health checks) | 3 testes rodando no computador, pelo painel · 120 conferências de saúde por dia |
 | [Product Owner do sistema de auditoria](https://alvessq.github.io/cases/po-auditoria.html) | Referência em regra de negócio, discovery, refinamentos e prioridades do time (discovery, refinamento, critérios de aceite) | PO por um período · Referência em regra de negócio |
 | [Como propus a automação de testes do aplicativo](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão (PoC, Appium, visão de produto) | Do zero até a primeira versão · 3 projetos que vieram depois |
 
