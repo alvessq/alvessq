@@ -36,11 +36,12 @@ Analista de QA com visão de produto e experiência em produtos financeiros B2B 
 | [Product Owner do sistema de auditoria](https://alvessq.github.io/cases/po-auditoria.html) | Referência em regra de negócio, discovery, refinamentos e prioridades do time (discovery, refinamento, critérios de aceite) | PO por um período · Referência em regra de negócio |
 | [Como propus a automação de testes do aplicativo](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão (PoC, Appium, visão de produto) | Do zero até a primeira versão · 3 projetos que vieram depois |
 
-**Projeto público** (código aberto, com a mesma abordagem)
+**Projetos públicos** (código aberto, com a mesma abordagem)
 
 | Projeto | O que é |
 |---|---|
 | [qa-automation-portfolio](https://github.com/alvessq/qa-automation-portfolio) | Testes automáticos de um app de compras para celular e de uma loja on-line, os dois públicos, e o painel que agenda e acompanha tudo. Encontrei 2 falhas reais no app. |
+| [api-tests](https://github.com/alvessq/api-tests) | Testes de API de uma loja pública, com Playwright e Postman/Newman: status, contrato (JSON Schema), regras de negócio e health check por serviço. 26 testes automáticos. |
 
 Clique no nome de um projeto para ler o case completo no meu [portfólio](https://alvessq.github.io).
 
