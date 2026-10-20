@@ -28,7 +28,7 @@ Analista de Qualidade (QA) com visão de produto. Trabalho com produtos financei
 
 | Projeto | O que eu fiz | Em números |
 |---|---|---|
-| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com um teste rápido e outro completo | 5 jornadas automatizadas · 9 telas mapeadas |
+| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com testes que rodam no computador e na nuvem | 5 jornadas automatizadas · rodam no computador e na nuvem |
 | [Testes do aplicativo rodando na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem num emulador Android na nuvem, disparados pelo painel, com vídeo de cada execução | 10 testes do app rodando na nuvem · 4 formas de rodar |
 | [Separar bug de verdade de falha passageira](https://alvessq.github.io/cases/triagem.html) | Teste que falha é repetido 3 vezes e só vira chamado se falhar em todas | 3 repetições antes de avisar · 12 sinais de ambiente reconhecidos |
 | [Painel único de acompanhamento dos testes](https://alvessq.github.io/cases/painel.html) | Painel único com resultados, agenda, vídeos e passo a passo em português | 3 frentes num painel só · 22 passos explicados em português |
