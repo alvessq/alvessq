@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-Analista de Qualidade (QA) com visão de produto. Trabalho com produtos financeiros garantindo que sites e aplicativos funcionem do jeito que o cliente precisa, e já atuei como Product Owner. Estou aberto a oportunidades em **Qualidade** e em **Produto**.
+Analista de QA com visão de produto e experiência em produtos financeiros B2B e B2C, como crédito consignado e auditoria. Atuo do refinamento à automação: ajudo a definir regras de negócio e critérios de aceite, planejo os testes e automatizo jornadas web, mobile e de API. Também atuei como Product Owner de um sistema de auditoria. Aberto a oportunidades em **Qualidade** e **Produto**.
 
 ### Ferramentas
 
@@ -28,13 +28,13 @@ Analista de Qualidade (QA) com visão de produto. Trabalho com produtos financei
 
 | Projeto | O que eu fiz | Em números |
 |---|---|---|
-| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com testes que rodam no computador e na nuvem | 5 jornadas automatizadas · rodam no computador e na nuvem |
-| [Testes do aplicativo rodando na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem num emulador Android na nuvem, disparados pelo painel, com vídeo de cada execução | 10 testes do app rodando na nuvem · 4 formas de rodar |
-| [Separar bug de verdade de falha passageira](https://alvessq.github.io/cases/triagem.html) | Teste que falha é repetido 3 vezes e só vira chamado se falhar em todas | 3 repetições antes de avisar · 12 sinais de ambiente reconhecidos |
-| [Painel único de acompanhamento dos testes](https://alvessq.github.io/cases/painel.html) | Painel único com resultados, agenda, vídeos e passo a passo em português | 3 frentes num painel só · 22 passos explicados em português |
-| [Monitoramento de um sistema de auditoria](https://alvessq.github.io/cases/auditoria.html) | Testes que conferem durante o expediente se o sistema está no ar e montando as filas | 5 min entre cada conferência · 120 conferências por dia |
-| [Product Owner do sistema de auditoria](https://alvessq.github.io/cases/po-auditoria.html) | Referência em regra de negócio, discovery, refinamentos e prioridades do time | PO por um período · Referência em regra de negócio |
-| [Como propus a automação de testes do aplicativo](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão | Do zero até a primeira versão · 3 projetos que vieram depois |
+| [Testes automáticos de um app de crédito](https://alvessq.github.io/cases/app-credito.html) | Automatizei login, simulação, ofertas e contratação no aplicativo, com testes que rodam no computador e na nuvem (Appium, WebdriverIO, testes de API) | 5 jornadas automatizadas · rodam no computador e na nuvem |
+| [Testes do aplicativo rodando na nuvem](https://alvessq.github.io/cases/nuvem.html) | Fiz os testes do app rodarem num emulador Android na nuvem, disparados pelo painel, com vídeo de cada execução (CI com GitHub Actions, emulador Android, Appium) | 10 testes do app rodando na nuvem · 4 formas de rodar |
+| [Separar bug de verdade de falha passageira](https://alvessq.github.io/cases/triagem.html) | Teste que falha é repetido 3 vezes e só vira chamado se falhar em todas (retry, testes flaky, Jira) | 3 repetições antes de avisar · 12 sinais de ambiente reconhecidos |
+| [Painel único de acompanhamento dos testes](https://alvessq.github.io/cases/painel.html) | Painel único com resultados, agenda, vídeos e passo a passo em português (dashboard, React, Node.js) | 3 frentes num painel só · 22 passos explicados em português |
+| [Monitoramento de um sistema de auditoria](https://alvessq.github.io/cases/auditoria.html) | Testes que conferem durante o expediente se o sistema está no ar e montando as filas (Playwright, TypeScript, monitoramento) | 5 min entre cada conferência · 120 conferências por dia |
+| [Product Owner do sistema de auditoria](https://alvessq.github.io/cases/po-auditoria.html) | Referência em regra de negócio, discovery, refinamentos e prioridades do time (discovery, refinamento, critérios de aceite) | PO por um período · Referência em regra de negócio |
+| [Como propus a automação de testes do aplicativo](https://alvessq.github.io/cases/proposta.html) | Mostrei o valor da automação começando pequeno e construí a primeira versão (PoC, Appium, visão de produto) | Do zero até a primeira versão · 3 projetos que vieram depois |
 
 **Projeto público** (código aberto, com a mesma abordagem)
 
